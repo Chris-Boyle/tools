@@ -1,0 +1,5 @@
+code --install-extension ms-vscode-remote.remote-containers
+
+#prettier
+#Docker
+#ESLint
